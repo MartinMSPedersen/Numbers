@@ -1,2 +1,2 @@
 # Numbers
-Properties about positive whole number
+My collection of whole positive numbers. Takes less space than collection stamps.
